@@ -62,6 +62,7 @@ Scheduled query `refresh_gold_inventory` rebuilds all gold tables daily from sil
 
 ![Page 1](dashboard_page1.png)
 ![Page 2](dashboard_page2.png)
+![Page 3](dashboard_page3.png)
 
 ## Tech
 GCP (Cloud Storage, BigQuery, scheduled queries), SQL, Looker Studio, medallion (bronze/silver/gold) modeling.
