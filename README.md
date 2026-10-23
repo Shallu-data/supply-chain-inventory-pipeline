@@ -40,7 +40,7 @@ Note: in this dataset inventory never falls below units sold, so "High" means th
 | Unknown | 0.49% |
 
 ## Business Insights (Analyst View)
-Period analysed: 2022-01-01 to 2024-01-01 (731 days), 5 categories, 4 regions. Queries are in the [`analysis/`](analysis/) folder.
+Period analysed: 2022-01-01 to 2024-01-01 (731 days), 5 categories, 4 regions. Queries are in the [Analysis/](Analysis/) folder.
 
 > Note: this is a public synthetic benchmark dataset, so differences between segments are small. The analysis focuses on network-wide patterns.
 
